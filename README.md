@@ -1,7 +1,5 @@
 # @sarast/prettier-config [![npm](https://img.shields.io/npm/v/@sarast/prettier-config.svg)](https://npmjs.com/package/@sarast/prettier-config)
 
-Prettier config.
-
 ## Install
 
 ```bash
