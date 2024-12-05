@@ -1,7 +1,7 @@
 {
   "name": "@sarast/prettier-config",
   "version": "1.1.0",
-  "packageManager": "pnpm@9.14.2+sha256.06e65a4965baff6d6097f9c8f75c35f6d420974dbc03d775009056a69edfd271",
+  "packageManager": "pnpm@9.14.4+sha256.26a726b633b629a3fabda006f696ae4260954a3632c8054112d7ae89779e5f9a",
   "license": "MIT",
   "homepage": "https://github.com/sarast/prettier-config#readme",
   "bugs": {
@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "bumpp": "9.8.1",
-    "prettier": "3.4.1"
+    "prettier": "3.4.2"
   },
   "prettier": "./index.js"
 }
